@@ -10,7 +10,7 @@ Open a terminal, clone the repository, enter its folder, create a virtual
 environment, install the dependencies, and run the training script:
 
 ```powershell
-git clone https://github.com/shaibaank/Customer-Churn-Prediction
+git clone <https://github.com/shaibaank/Customer-Churn-Prediction>
 cd Customer-Churn-Prediction
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
